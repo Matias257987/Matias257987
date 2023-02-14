@@ -1,7 +1,7 @@
 ### Hola! mi nombre es Matias Acosta 👋
 
 ## ¿Quién soy? 
-Soy recien graduado del bootcamp de [Soy Henry](https://soyhenry.com), en la carrera de **_Fullstack_ Web Developer**.
+Soy **_Fullstack_ Web Developer**.
 
 Desde chico me ha interesado el mundo de la programación. Mi primer Lenguaje
 fue **C#**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
