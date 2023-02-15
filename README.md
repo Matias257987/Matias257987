@@ -41,4 +41,6 @@ soluciones a problemas que creíamos ya resueltos.
   <a href="http://www.linkedin.com/in/matias-acosta-32c">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+<p>o por mail a: <br/>
+  <p>acostamatias25@gmail.com</p>
 </p>
